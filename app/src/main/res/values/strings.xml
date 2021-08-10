@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TDDLab</string>
+    <string name="photo">Photo</string>
+    <string name="menu_1">Menu 1</string>
+    <string name="menu_2">Menu 2</string>
+
+    <string name="open_drawer">Abrir</string>
+    <string name="close_drawer">Fechar</string>
+    <string name="nome_do_contato">Nome do contato</string>
+    <string name="_85_99999_9999">(85)99999-9999</string>
+</resources>
